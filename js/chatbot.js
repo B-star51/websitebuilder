@@ -36,11 +36,11 @@
     },
     {
       keywords: ['price', 'cost', 'rate', 'charge', 'fee', 'quote', 'hire', 'available'],
-      reply: "I'm open to junior pentester roles, freelance security assessments, and web dev work. Drop an email to discuss — aidenctaylorfire@gmail.com"
+      reply: "I'm open to junior pentester roles, freelance security assessments, and web dev work. Drop an email to discuss — taylormeai@outlook.com"
     },
     {
       keywords: ['contact', 'email', 'reach', 'message', 'get in touch', 'linkedin'],
-      reply: "Best ways to reach me:\n✉️ aidenctaylorfire@gmail.com\n🐙 github.com/B-star51\n💼 Check the Contact section for LinkedIn"
+      reply: "Best ways to reach me:\n✉️ taylormeai@outlook.com\n🐙 github.com/B-star51\n💼 Check the Contact section for LinkedIn"
     },
     {
       keywords: ['tryhackme', 'thm', 'rank', 'top 1', 'cert', 'certification', 'oscp', 'comptia'],
@@ -64,7 +64,7 @@
     }
   ];
 
-  const DEFAULT_REPLY = "I don't have a scripted answer for that — but feel free to email directly: aidenctaylorfire@gmail.com 👍";
+  const DEFAULT_REPLY = "I don't have a scripted answer for that — but feel free to email directly: taylormeai@outlook.com 👍";
 
   function getReply(input) {
     const lower = input.toLowerCase();
